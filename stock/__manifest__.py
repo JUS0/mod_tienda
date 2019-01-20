@@ -8,7 +8,7 @@
     'description': "",
     'website': 'https://www.odoo.com/page/warehouse',
     'depends': ['product', 'barcodes', 'web_planner'],
-    'category': 'Warehouse',
+    'category': 'Tienda',
     'sequence': 13,
     'demo': [
         'data/stock_demo_pre.yml',
